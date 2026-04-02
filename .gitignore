@@ -1,0 +1,23 @@
+# Hugo 生成的静态网站（不需要上传，会自动生成）
+/public/
+/resources/_gen/
+
+# Hugo 缓存文件
+.hugo_build.lock
+
+# 编辑器/系统自动生成的垃圾文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 日志、临时文件
+*.log
+*.tmp
+*.bak
+
+# 主题目录（如果你是手动下载主题，建议不上传）
+# themes/
