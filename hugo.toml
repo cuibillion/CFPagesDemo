@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
+theme = "PaperMod"  # 填你刚才重命名的文件夹名
